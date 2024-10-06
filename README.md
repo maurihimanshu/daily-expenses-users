@@ -19,7 +19,10 @@ Here’s what **Daily Expenses** can do for you:
   
 - **Visual Expense Breakdown**: Get a clear picture of your spending with easy-to-understand pie charts that categorize your expenses by type (e.g., groceries, dining) and payment mode (e.g., credit card, cash, UPI).
 
-![Expense Breakdown Screenshot](./1.png)
+<div style="display: flex; justify-content: center; overflow-x: auto; white-space: nowrap;">
+  <img src="./1.png" alt="App Screenshot 1" style="width: 300px; margin-right: 10px;">
+  <img src="./7.png" alt="App Screenshot 7" style="width: 300px; margin-right: 10px;">
+</div>
 
 - **Transaction History**: Keep track of all your previous transactions. The app maintains a complete passbook that shows detailed transaction history so you can review your spending patterns anytime.
 
@@ -59,7 +62,11 @@ Here’s what **Daily Expenses** can do for you:
 
 Here’s a glimpse of the **Daily Expenses** app in action:
 
-![App Screenshot](./1.png)
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 10px; padding: 10px;">
+  <img src="./2.png" alt="App Screenshot 2" style="width: 250px; flex-shrink: 0;">
+  <img src="./3.png" alt="App Screenshot 3" style="width: 250px; flex-shrink: 0;">
+  <img src="./6.png" alt="App Screenshot 6" style="width: 250px; flex-shrink: 0;">
+</div>
 
 ## Frequently Asked Questions (FAQ)
 
