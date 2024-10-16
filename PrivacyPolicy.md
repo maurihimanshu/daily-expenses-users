@@ -1,39 +1,49 @@
+Here's an updated Privacy Policy formatted to align with Google Play Console standards. This version is clear, concise, and includes necessary sections that comply with Google's requirements.
+
+---
+
 # Privacy Policy
 
 **Effective Date:** [05 Oct 2024]
 
+**App Name:** Finance Helper
+**Developer:** Himanshu Kumar 
+**Email:** himanshumauri@gmail.com
+
 ## Introduction
 
-This privacy policy outlines how your information is managed when you use the Daily Expenses Tracker app ("the App"). Please read it carefully to understand our stance on data privacy. By using the App, you agree to this policy.
+This Privacy Policy describes how we collect, use, and protect your information when you use the Finance Helper app (the "App"). By using the App, you consent to the practices described in this policy.
 
-## No Internet Access or Data Collection
+## Information We Collect
 
-We respect your privacy. This App **does not** require internet access, and no data is collected, shared, or transmitted to us or any third parties.
+The App collects the following types of information:
 
-### Your Data Stays on Your Device
+- **User Input Data:** You provide information, including expenses and budget details, which is stored in Firebase.
+  
+## Data Storage and Security
 
-All the data you input into the App, including your expenses and budget details, is **stored locally** on your device. We do not collect, monitor, or store any personal or financial data.
+All data you enter into the App is securely stored in **Firebase**. We implement reasonable security measures to protect your data, but please understand that:
 
-**We have no access** to your data, and it will remain solely under your control. Therefore, we are not responsible for any legal matters or disputes related to the content you enter into the App.
+- **No Guarantees:** While we strive to secure your data, we cannot guarantee its absolute safety. Unauthorized access or data breaches can occur, and we do not take responsibility for such incidents.
+  
+- **User Responsibility:** You are responsible for maintaining the security of your account and the data you manage within the App.
 
 ## No Legal Liability
 
-Since all your data remains on your device and the App does not connect to external servers, we cannot be held liable for any loss, corruption, or unauthorized access to the data stored on your device. You are solely responsible for ensuring the security of your device and the data stored within the App.
+By using the App, you agree that the application owner shall not be held liable for any claims, damages, or legal actions arising from the data you enter or manage within the App.
 
-## Changes to This Policy
+## Changes to This Privacy Policy
 
-We reserve the right to modify this Privacy Policy at any time without prior notice. Any changes will be reflected in this document, and it is your responsibility to review this policy periodically for updates.
-
-## No Warranties
-
-The App is provided on an **as-is** basis. We make no warranties, express or implied, regarding the App’s performance or functionality. Use of the App is at your own risk.
+We reserve the right to modify this Privacy Policy at any time. If we make changes, we will update the effective date at the top of this policy. You are encouraged to review this Privacy Policy periodically.
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at:
+If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email:** [Insert Email Address]
+**Email:** himanshumauri@gmail.com
 
 ---
 
-Thank you for using Daily Expenses Tracker!
+Thank you for using the Daily Expenses Tracker app!
+
+---
