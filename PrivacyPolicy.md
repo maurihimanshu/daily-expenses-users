@@ -1,4 +1,3 @@
-Here's an updated Privacy Policy formatted to align with Google Play Console standards. This version is clear, concise, and includes necessary sections that comply with Google's requirements.
 
 ---
 
